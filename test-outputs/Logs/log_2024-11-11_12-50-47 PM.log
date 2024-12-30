@@ -1,0 +1,7 @@
+[INFO] 11-11-2024 12:50:48 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:30)] - Edge driver is opened
+[INFO] 11-11-2024 12:50:48 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:32)] - Page is redirected to the URL
+[INFO] 11-11-2024 12:50:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 11-11-2024 12:50:50 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:29)] - number of all products: 6
+[INFO] 11-11-2024 12:50:51 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:39)] - number of products on cart: 6
+[INFO] 11-11-2024 12:50:51 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:50)] - selected products: 6
+[INFO] 11-11-2024 12:50:51 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:20)] - Test Case checkingNumberOfSelectedProductsTC failed

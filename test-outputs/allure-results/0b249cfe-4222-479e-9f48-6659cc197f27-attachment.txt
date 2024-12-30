@@ -1,0 +1,2 @@
+[INFO] 05-12-2024 13:34:25 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:29)] - Edge driver is opened
+[INFO] 05-12-2024 13:34:27 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:31)] - Page is redirected to the URL

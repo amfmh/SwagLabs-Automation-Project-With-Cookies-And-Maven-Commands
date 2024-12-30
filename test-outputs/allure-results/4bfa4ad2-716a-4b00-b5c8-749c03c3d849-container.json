@@ -1,0 +1,1 @@
+{"uuid":"4bfa4ad2-716a-4b00-b5c8-749c03c3d849","name":"Tests.TC01_LoginTest.quit","children":["a2c0c440-5e7e-49d0-86d9-4deec351e91e"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1730587866830,"stop":1730587868418}],"start":1730587866830,"stop":1730587868418}
