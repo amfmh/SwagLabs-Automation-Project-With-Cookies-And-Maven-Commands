@@ -30,7 +30,7 @@ public class TC04_CheckoutTest {
     private final String LASTNAME = DataUtils.getJsonData("information", "lName") + "-" + Utility.getTimeStamp();
     private final String ZIPCODE = new Faker().number().digits(5);
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setup() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : getPropertyValue("environment", "Browser");
         LogsUtils.info(System.getProperty("browser"));
@@ -62,7 +62,7 @@ public class TC04_CheckoutTest {
     }
 
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
     }
